@@ -1,15 +1,15 @@
 #EXTM3U
 
 <<<<<<< HEAD
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Hits"  group-title="Unsorted",HBO Hits
-http://tv.aliflailabd.com:8989/hbo/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABP Ananda"  group-title="Unsorted",ABP Ananda
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
 <<<<<<< HEAD
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gazi TV"  group-title="Unsorted",Gazi TV
-http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Peace-tv-Bangla"  group-title="Unsorted",Peace-tv-Bangla
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony SIX HD"  group-title="Unsorted",Sony SIX HD
-http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atn News Bangla"  group-title="Unsorted",Atn News Bangla
+http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tsports HD"  group-title="Unsorted",Tsports HD
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
@@ -126,4 +126,3 @@ http://103.205.133.19/hls/9xm.m3u8
 
 #EXTINF:-1, BEIN SPORTS HD
 https://list.iptvcat.com/my_list/s/abcc6e9aa53f8a1f46accc1cbcecb4c4.m3u8
->>>>>>> b1a1dd65fd26e90df63a67d5800eb206e7173602
